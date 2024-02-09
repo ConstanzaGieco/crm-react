@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 2345678,
+      "web": "https://github.com/ConstanzaGieco",
+      "empresa": "Des Constanza Gieco"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 3456789,
+      "web": "https://github.com/ConstanzaGieco",
+      "empresa": "Des Constanza Gieco"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 4567890,
+      "web": "https://github.com/ConstanzaGieco",
+      "empresa": "Des Constanza Gieco"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1987654,
+      "web": "https://github.com/ConstanzaGieco",
+      "empresa": "Des Constanza Gieco"
+    },
+    {
+      "nombre": "Constanza",
+      "empresa": "Des Constanza Gieco",
+      "web": "https://www.ejemplo.com",
+      "telefono": "12312323",
+      "notas": "prueba",
+      "id": 6
+    }
+  ]
+}
